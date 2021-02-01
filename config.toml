@@ -1,0 +1,4 @@
+baseURL = "http://madeehahhasanah.com/"
+languageCode = "en-us"
+title = "Madeehah Hasanah"
+theme = "hugo-notepadium"
